@@ -34,7 +34,7 @@ Utilizamos GitHub Projects para organizar, planificar y realizar el seguimiento 
 | :--- | :--- |
 | **Tablero Kanban/Scrum** | [Ir al Project Board](https://www.youtube.com/watch?v=Oul3wLKpx04) |
 
-**Flujo de Trabajo:** El tablero sigue un flujo **Kanban** con las etapas: **Pendiente** $\rightarrow$ **En Desarrollo** $\rightarrow$ **Pruebas/Revisión** $\rightarrow$ **Terminado**.
+**Flujo de Trabajo:** El tablero sigue un flujo **Kanban** con las etapas: **Pendiente** **En Desarrollo** **Pruebas/Revisión**  **Terminado**.
 
 ---
 
@@ -42,10 +42,9 @@ Utilizamos GitHub Projects para organizar, planificar y realizar el seguimiento 
 
 Este proyecto ha sido desarrollado por:
 
-| Integrante | Rol Principal Asignado | Responsabilidades Clave |
-| **Juan David Rodriguez Vargas** | **Scrum Master / Analista** | Gestión del tablero, eliminación de impedimentos, definición de esquemas (HU-2.1). |
-| **Paula Valentina Rache Fonseca** | **Líder Técnico / Desarrollador Backend** | Revisión de código, implementación de la lógica de seguridad y endpoints (HU-1.1, HU-2.2). |
-| **Juan Camilo Viviescas Triana** | **Desarrollador Frontend** | Implementación de componentes de interfaz de usuario (Login/Registro) y vistas (HU-1.2, HU-3.1). |
+**Juan David Rodriguez Vargas**  | **Scrum Master / Analista** | Gestión del tablero, eliminación de impedimentos, definición de esquemas (HU-2.1). |
+**Paula Valentina Rache Fonseca** | **Líder Técnico / Desarrollador Backend** | Revisión de código, implementación de la lógica de seguridad y endpoints (HU-1.1, HU-2.2). |
+**Juan Camilo Viviescas Triana** | **Desarrollador Frontend** | Implementación de componentes de interfaz de usuario (Login/Registro) y vistas (HU-1.2, HU-3.1). |
 
 ---
 
@@ -54,7 +53,5 @@ Este proyecto ha sido desarrollado por:
 Para asegurar una planificación robusta, utilizamos los siguientes campos personalizados en nuestro Project Board:
 
 * **Esfuerzo Estimado:** Se mide en **horas (h)**.
-* * **Tipo de Recurso Necesario:** Clasifica si la tarea requiere un recurso **Frontend**, **Backend**, o **Analista**.
-* **Etiquetas de Prioridad:** Utilizamos las etiquetas `high`, `medium` y `low`.
 * **Tipo de Recurso Necesario:** Clasifica si la tarea requiere un recurso **Frontend**, **Backend**, o **Analista**.
 * **Etiquetas de Prioridad:** Utilizamos las etiquetas `high`, `medium` y `low`.
