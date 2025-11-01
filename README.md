@@ -32,7 +32,7 @@ Utilizamos GitHub Projects para organizar, planificar y realizar el seguimiento 
 
 | Tipo de Recurso | Enlace |
 | :--- | :--- |
-| **Tablero Kanban/Scrum** | [Ir al Project Board](https://www.youtube.com/watch?v=Oul3wLKpx04) |
+| **Tablero Kanban/Scrum** | [Ir al Project Board]([https://github.com/users/juanda22-ty/projects/2]) |
 
 **Flujo de Trabajo:** El tablero sigue un flujo **Kanban** con las etapas: **Pendiente** **En Desarrollo** **Pruebas/Revisión**  **Terminado**.
 
