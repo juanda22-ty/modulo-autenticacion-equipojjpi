@@ -1,8 +1,8 @@
-# 🛡️ Módulo de Autenticación de Usuarios
+# 🛡️ Módulo de Autenticación de Usuarios | [Nombre de tu Proyecto]
 
 ## 1. Objetivo del Módulo
 
-El propósito de este módulo es **implementar un sistema de autenticación** robusto y seguro que permita a los usuarios registrarse e iniciar sesión en la aplicación. Este sistema es crítico para garantizar que solo los usuarios verificados puedan acceder al panel de control y a las funcionalidades principales, manteniendo la integridad y privacidad de los datos.
+El propósito de este módulo es **implementar un sistema de autenticación** robusto y seguro que permita a los usuarios registrarse e iniciar sesión en la aplicación. Este sistema es crítico para garantizar que solo los usuarios verificados puedan acceder al panel de control y a las funcionalidades principales, manteniendo la integridad y privacidad de los datos del sistema.
 
 ---
 
@@ -24,7 +24,7 @@ La siguiente lista define los requisitos de alto nivel del usuario que guían el
 
 ---
 
-## 3. Planificación y Seguimiento
+## 3. Planificación y Seguimiento (GitHub Projects)
 
 Utilizamos GitHub Projects para organizar, planificar y realizar el seguimiento de cada tarea, asegurando la trazabilidad del código a cada Historia de Usuario.
 
@@ -32,9 +32,9 @@ Utilizamos GitHub Projects para organizar, planificar y realizar el seguimiento 
 
 | Tipo de Recurso | Enlace |
 | :--- | :--- |
-| **Tablero Kanban/Scrum** | [Ir al Project Board]([https://github.com/users/juanda22-ty/projects/2]) |
+| **Tablero Kanban/Scrum** | [Ir al Project Board](https://github.com/users/juanda22-ty/projects/2) |
 
-**Flujo de Trabajo:** El tablero sigue un flujo **Kanban** con las etapas: **Pendiente** **En Desarrollo** **Pruebas/Revisión**  **Terminado**.
+**Flujo de Trabajo:** El tablero sigue un flujo **Kanban** con las etapas: **Pendiente** $\rightarrow$ **En Desarrollo** $\rightarrow$ **Pruebas/Revisión** $\rightarrow$ **Terminado**.
 
 ---
 
@@ -42,9 +42,12 @@ Utilizamos GitHub Projects para organizar, planificar y realizar el seguimiento 
 
 Este proyecto ha sido desarrollado por:
 
-**Juan David Rodriguez Vargas**  | **Scrum Master / Analista** | Gestión del tablero, eliminación de impedimentos, definición de esquemas (HU-2.1). |
-**Paula Valentina Rache Fonseca** | **Líder Técnico / Desarrollador Backend** | Revisión de código, implementación de la lógica de seguridad y endpoints (HU-1.1, HU-2.2). |
-**Juan Camilo Viviescas Triana** | **Desarrollador Frontend** | Implementación de componentes de interfaz de usuario (Login/Registro) y vistas (HU-1.2, HU-3.1). |
+| Integrante | Rol Principal Asignado | Responsabilidades Clave |
+| :--- | :--- | :--- |
+| **Juan David Rodriguez Vargas** | Gestión del tablero, organización de tareas, análisis de requisitos (HU-2.1) y remoción de impedimentos. |
+| **Paula Valentina Rache Fonseca** | Revisión de código, implementación de la lógica de seguridad y endpoints de API (HU-1.1, HU-2.2). |
+| **Juan Camilo Viviescas Triana** | Desarrollo de la interfaz de usuario, pruebas de aceptación y validación de calidad (HU-1.2, HU-3.1). |
+| **Ivan Rene Figueroa** | Definición de la experiencia de usuario y diseño visual de la interfaz. Encargado de la documentación técnica y el `README`. |
 
 ---
 
@@ -53,5 +56,5 @@ Este proyecto ha sido desarrollado por:
 Para asegurar una planificación robusta, utilizamos los siguientes campos personalizados en nuestro Project Board:
 
 * **Esfuerzo Estimado:** Se mide en **horas (h)**.
-* **Tipo de Recurso Necesario:** Clasifica si la tarea requiere un recurso **Frontend**, **Backend**, o **Analista**.
-* **Etiquetas de Prioridad:** Utilizamos las etiquetas `high`, `medium` y `low`.
+* **Tipo de Recurso Necesario:** Clasifica si la tarea requiere un recurso **Frontend**, **Backend**, **Analista**, **Diseñador** o **QA**.
+* **Etiquetas de Prioridad:** Utilizamos las etiquetas `high`, `medium` y `low` para indicar la urgencia de cada tarea.
