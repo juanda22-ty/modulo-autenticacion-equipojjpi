@@ -1,4 +1,4 @@
-# 🛡️ Módulo de Autenticación de Usuarios | [Nombre de tu Proyecto]
+# 🛡️ Módulo de Autenticación de Usuarios | JJPI
 
 ## 1. Objetivo del Módulo
 
