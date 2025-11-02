@@ -42,8 +42,8 @@ Utilizamos GitHub Projects para organizar, planificar y realizar el seguimiento 
 
 Este proyecto ha sido desarrollado por:
 
-| Integrante | Rol Principal Asignado | Responsabilidades Clave |
-| :--- | :--- | :--- |
+| Integrante | Responsabilidades Clave |
+| :--- | :--- |
 | **Juan David Rodriguez Vargas** | Gestión del tablero, organización de tareas, análisis de requisitos (HU-2.1) y remoción de impedimentos. |
 | **Paula Valentina Rache Fonseca** | Revisión de código, implementación de la lógica de seguridad y endpoints de API (HU-1.1, HU-2.2). |
 | **Juan Camilo Viviescas Triana** | Desarrollo de la interfaz de usuario, pruebas de aceptación y validación de calidad (HU-1.2, HU-3.1). |
